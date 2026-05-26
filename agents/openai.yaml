@@ -1,0 +1,8 @@
+interface:
+  display_name: "项目审建一体化"
+  short_description: "项目立项、论证、评审、决策与实施流程"
+  icon_large: "./assets/project-shenjian-cover.svg"
+  default_prompt: "Use $project-initiation-implementation to run 项目审建一体化 for my project idea, from research and planning through approval-based execution."
+
+policy:
+  allow_implicit_invocation: true
